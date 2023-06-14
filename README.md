@@ -1,5 +1,5 @@
 ### 我是三炮Sample 👋
-个人博客 https://summerday.fun/
+个人博客：[三炮夏日](summerday.fun)
 
 <!--
 **Sample999/Sample999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
