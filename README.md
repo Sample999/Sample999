@@ -2,7 +2,7 @@
 个人博客：[三炮夏日](summerday.fun)
 
 
-交个朋友 👬🏻
+交个朋友 ![image](https://github.com/Sample999/Sample999/assets/54846113/53e51d58-c626-4288-8253-da4f61de596b)
  I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
  
 <!--
