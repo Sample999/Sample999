@@ -1,6 +1,10 @@
 ### 我是三炮Sample 👋
 个人博客：[三炮夏日](summerday.fun)
 
+
+交个朋友 👬🏻
+ I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
+ 
 <!--
 **Sample999/Sample999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
