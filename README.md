@@ -1,9 +1,7 @@
 ### 我是三炮Sample 👋
 个人博客：[三炮夏日](summerday.fun)
+![微信图片_20230515093906](https://github.com/Sample999/Sample999/assets/54846113/e06b99dd-4edd-4269-81e3-b66291458c62)
 
-
-交个朋友 ![image](https://github.com/Sample999/Sample999/assets/54846113/53e51d58-c626-4288-8253-da4f61de596b)
- I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊
  
 <!--
 **Sample999/Sample999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
